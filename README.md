@@ -31,6 +31,8 @@
 
 5. 提交 Pull request
    让我看看你写了些什么👀，其实就是我审一下代码
-   ![](https://s2.loli.net/2023/07/13/hKS6mU4BYGpfJOu.png)
-   ![](https://s2.loli.net/2023/07/13/E8o4D7VBrGujaCA.png)
+   ![](https://s2.loli.net/2023/07/13/hKS6mU4BYGpfJOu.png)  
+   ![](https://s2.loli.net/2023/07/13/E8o4D7VBrGujaCA.png)  
    ![](https://s2.loli.net/2023/07/13/LD8mSMHatGCRK1b.png)
+   如果后续在这个分支上没有修改了那就把这个分支删掉
+   ![](https://s2.loli.net/2023/07/13/F7YAviQpWoUmalJ.png)
