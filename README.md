@@ -13,7 +13,8 @@
    `git checkout -b <branch_name>`
    > 自己负责的修改要另立一个分支，不能直接推到主分支上  
    > 命名可以如 `feat-login`, `feat-show-xxx` 等  
-   > 记得要在 `dev` 分支上创建，即先 `git checkout dev`  
+   > 记得要在 `dev` 分支上创建，即先 `git checkout dev`
+   > 在创建前先同步最新的 `dev` 分支: `git pull origin dev`
    > 切分支之前保证自己工作区的修改已经 commit 了，不然可能会丢 *(?)*
   
 3. 添加/修改一些文件之后：
