@@ -22,4 +22,12 @@
    > 例如 `git commit -m "今天又摸鱼了"`
 
 4. 合并修改到主分支
-   在 Github 上提交一个 **Pull request**, 把修改推到 `dev` 分支上，我会审的👁
+   把自己的分支推到 Github. 如果这个分支在远端还不存在，那么
+   `git push --set-upstream origin <branch_name>`  
+   否则就直接 `git push` 就好
+
+5. 提交 Pull request
+   让我看看你写了些什么👀，其实就是我审一下代码
+   ![](https://s2.loli.net/2023/07/13/hKS6mU4BYGpfJOu.png)
+   ![](https://s2.loli.net/2023/07/13/E8o4D7VBrGujaCA.png)
+   ![](https://s2.loli.net/2023/07/13/LD8mSMHatGCRK1b.png)
