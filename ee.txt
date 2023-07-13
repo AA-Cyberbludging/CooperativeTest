@@ -1,1 +1,1 @@
-git commit -m "我急了我急了手机电脑全砸了"
+git commit -m "原神，启动！"
